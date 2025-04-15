@@ -47,11 +47,13 @@
 
 ### 📊📈 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AniketBembale&show_icons=true&theme=radical" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AniketBembale&show_icons=true&show_icons=true&theme=radical" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketBembale&layout=compact&theme=radical" height="200"/>
+  
 </p>
 
----
+
+
 ---
 
 ## 📫 Connect With Me
