@@ -66,7 +66,7 @@
   <a href="https://instagram.com/aniket_bembale">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:aniketbembale@gmail.com">
+  <a href="mailto:anibembale1004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
