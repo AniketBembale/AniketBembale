@@ -54,12 +54,21 @@
 ---
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/aniket-bembale"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://www.kaggle.com/aniketbembale"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&style=for-the-badge" /></a>
-  <a href="https://instagram.com/aniket_bembale"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" /></a>
-  <a href="mailto:aniketbembale@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/aniket-bembale">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.kaggle.com/aniketbembale">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/aniket_bembale">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:aniketbembale@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 
