@@ -77,7 +77,7 @@
 
 ### 🎯 Featured Projects & Resume
 <p align="center">
-  <a href="https://drive.google.com/file/d/1E4SR_qo7aCUZcjdIxJVS1HHfszuXb5Fj/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1EbEAUIvM3kM5sUgnAPPOGrbCmNzzE5LX/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Download%20Resume-%F0%9F%93%9C-blue?style=for-the-badge" />
   </a>
 </p>
