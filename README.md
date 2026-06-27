@@ -6,8 +6,8 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/robot.gif" width="220" />
-  <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/robot.gif" width="10" />
+  <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif" width="280"/>
 </div>
 
 <p align="center">
