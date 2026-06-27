@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:327594,100:7B2FF7&height=220&section=header&text=Aniket%20Bembale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20GenAI%20Engineer%20%E2%80%A2%20Quantum%20ML%20Researcher&descAlignY=55&descSize=20" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-327594?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Best%20Paper%20Award-ETTIS%202025-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-327594?style=for-the-badge" />
+
 </p>
 
 <div align="center">
@@ -219,3 +219,7 @@ fun_fact: "Cut LLM cost per 1K queries from $15.12 → $4.59 (-70% tokens)"
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/footer.gif" width="100%">
 </p>
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:327594,100:7B2FF7&height=180&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=68"
+  width="100%"
+/>
