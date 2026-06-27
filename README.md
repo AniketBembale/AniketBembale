@@ -14,24 +14,60 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/divider.gif" width="100%">
 </p>
 
+
 ## 🧠 About Me
 
-```yaml
-name: Aniket Bembale
-role: AI Engineer (Senior Research Associate - AI/Data) @ CloudThat
-also: Project Associate (AI/ML Engineer) @ C-DAC CINE, IIT Guwahati
-focus: ["Generative AI", "RAG", "Agentic AI", "Quantum ML", "MLOps"]
-currently_building: "Conversational analytics & GenAI chatbots on AWS Bedrock"
-fun_fact: "Cut LLM cost per 1K queries from $15.12 → $4.59 (-70% tokens)"
+```python
+class AniketBembale:
+
+    role = "Senior Research Associate (AI/Data) @ CloudThat"
+
+    previous = "AI/ML Engineer @ C-DAC CINE"
+
+    expertise = [
+        "Generative AI",
+        "RAG",
+        "Agentic AI",
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Computer Vision",
+        "AWS",
+        "MLOps",
+        "Machine Learning",
+        "Quantum ML"
+    ]
+
+    currently_building = [
+        "Conversational Analytics",
+        "AI Chatbots",
+        "Multi-Agent Systems"
+    ]
+
+    philosophy = "Build AI that is scalable, cost-efficient, low-latency, and production-ready, with optimization at the core of every solution."
+    
 ```
 
-- 🚀 Building **GenAI-powered conversational analytics & AI chatbots** on **AWS Bedrock, Lambda, RDS & DynamoDB**
-- 🔬 R&D in **Quantum Machine Learning**, **Hybrid Quantum-Classical Neural Networks (HQNN)** & **Agentic AI**
-- 🏥 Shipping AI for **Predictive Policing**, **Disaster/Flood Evacuation Routing**, and **Document Intelligence**
-- 🏆 **Best Paper Award @ ETTIS 2025** — *Quantum Computing for Graph Optimization: Shortest Path Problem*
-- 📰 Published in **IEEE Access (2025)** & accepted at **GCON 2026**
-- ⚡ Reduced LLM operational cost by **70%** through tool-embedded prompt engineering & token optimization
-- 🌟 Passionate about bridging **Quantum Computing** and **AI** for real-world impact
+
+**💼 Currently Building**
+
+Production-grade conversational analytics platforms and enterprise AI chatbots on AWS Bedrock.
+
+**⚙️ Core Expertise**
+
+Generative AI • RAG • Agentic AI • AWS • MLOps • Quantum ML
+
+**🔬 Research**
+
+Quantum Machine Learning (QML), HQNN, Quantum Optimization
+
+**🏆 Recognition**
+
+Best Paper Award – ETTIS 2025
+
+**🎯 Engineering Philosophy**
+
+Build scalable, cost-efficient, low-latency AI systems with production readiness and measurable business impact in mind.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/divider.gif" width="100%">
