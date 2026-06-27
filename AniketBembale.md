@@ -172,27 +172,6 @@ fun_fact: "Cut LLM cost per 1K queries from $15.12 → $4.59 (-70% tokens)"
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/divider.gif" width="100%">
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AniketBembale/AniketBembale/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%"/>
-</p>
-
-> ⚙️ This animates daily — see the **Setup** section at the bottom for the one-time GitHub Action that generates it for your account.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/divider.gif" width="100%">
-</p>
-
-## 🌐 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AniketBembale/AniketBembale/output/profile-night-rainbow.svg" alt="3d contribution graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/divider.gif" width="100%">
-</p>
 
 ## 📊📈 GitHub Stats & Top Languages
 
@@ -240,15 +219,3 @@ fun_fact: "Cut LLM cost per 1K queries from $15.12 → $4.59 (-70% tokens)"
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/footer.gif" width="100%">
 </p>
 
-## ⚙️ Setup (for the animated snake & 3D graph)
-
-These two widgets are GitHub Actions that run on a schedule in **your own `AniketBembale/AniketBembale` repo** (the special repo whose README is your profile). One-time setup:
-
-1. In your `AniketBembale/AniketBembale` repo → **Settings → Pages**, leave source as is (not needed for this).
-2. Create `.github/workflows/snake.yml` with the [Platane/snk](https://github.com/Platane/snk) action — generates the eaten-contribution-graph SVG used above.
-3. Create `.github/workflows/profile-3d-contrib.yml` with the [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) action — generates the rotating 3D graph.
-4. Both actions push their output to an `output` branch — which is exactly what the image URLs above point to, so once the Actions run once, the visuals appear automatically and refresh daily.
-
-I can generate both workflow YAML files for you directly if you'd like — just say so.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:327594&height=120&section=footer" width="100%"/>
