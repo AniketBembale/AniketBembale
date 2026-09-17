@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:327594,100:7B2FF7&height=220&section=header&text=Aniket%20Bembale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20GenAI%20Engineer%20%E2%80%A2%20Quantum%20ML%20Researcher&descAlignY=55&descSize=20" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-327594?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-327594?style=for-the-badge" />
 
 </p>
 
